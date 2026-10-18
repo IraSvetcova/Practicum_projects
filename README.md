@@ -12,9 +12,9 @@
 
 ### Реализация:
 
-Тест-кейсы: ([test-cases](./test-cases.pdf))
+Тест-кейсы: [test-cases](./test-cases.pdf)
 
-Баг-репорты: ([bug-reports](./bug-reports.pdf))
+Баг-репорты: [bug-reports](./bug-reports.pdf)
 
 ## Часть 2: ретест багов
 Вторая самостоятельная задача — перепроверить баги, или провести ретест.
@@ -24,4 +24,4 @@
 
 ### Реализация:
 
-Баг-репорты: ([retest-bug](./retest-bug.pdf))
+Баг-репорты: [retest-bug](./retest-bug.pdf)
