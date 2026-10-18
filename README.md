@@ -12,6 +12,7 @@
 
 Реализация:
 Тест-кейсы: (см. [test-cases](./test-cases.pdf))
+
 Баг-репорты: (см. [bug-reports](./bug-reports.pdf))
 
 ## Часть 2: ретест багов
